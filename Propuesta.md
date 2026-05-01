@@ -36,6 +36,14 @@ malentendidos y permite al cliente saber exactamente en qué estado está su com
 - Nicol Riascos-Frontend: HTML5, CSS, Bootstrap
 - Aura Quiñones-Backend: Node.js (Express)
 - Isaura Banguera-Base de datos: MySQL
+  
+
+**opinion de aura**
+Considero que el proyecto aborda una necesidad clara y de fácil comprensión para los usuarios.
+Destaco especialmente la funcionalidad de seguimiento del estado del pedido,
+ya que requiere una adecuada integración entre los distintos componentes del sistema. Asimismo,
+la definición previa de las cinco entidades facilita el diseño de la base de datos y reduce posibles inconsistencias.
+En general, las tecnologías propuestas son adecuadas para el desarrollo del proyecto.
 
 **opinion de isaura**
 Me gusta mucho esta propuesta porque ataca un problema que 
