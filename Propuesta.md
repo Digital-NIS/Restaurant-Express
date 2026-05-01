@@ -43,7 +43,7 @@ Considero que el proyecto aborda una necesidad clara y de fácil comprensión pa
 Destaco especialmente la funcionalidad de seguimiento del estado del pedido,
 ya que requiere una adecuada integración entre los distintos componentes del sistema. Asimismo,
 la definición previa de las cinco entidades facilita el diseño de la base de datos y reduce posibles inconsistencias.
-En general, las tecnologías propuestas son adecuadas para el desarrollo del proyecto.
+En general, las tecnologías propuestas son adecuadas para el desarrollo del proyecto. 
 
 **opinion de isaura**
 Me gusta mucho esta propuesta porque ataca un problema que 
